@@ -2,7 +2,7 @@
 
 ### Frontend
 
-ecommerce-website-5v4c.vercel.app
+https://ecommerce-website-5v4c.vercel.app/
 
 ### Backend API
 
